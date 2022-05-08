@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-permalink: /home/
+permalink: /
 nav: true
 order: 1
 
