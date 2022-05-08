@@ -4,4 +4,4 @@ date: 2022-05-09 12:00:00
 inline: true
 ---
 
-I have been selected as a scholar by the <a href="https://www.studienstiftung.de/en/" target="_blank">German Academic Scholarship Foundation</a>!
+I have been selected to join the <a href="https://www.studienstiftung.de/en/" target="_blank">German Academic Scholarship Foundation</a> (Studienstiftung des deutschen Volkes) as a merit scholarship grantee and student member!
