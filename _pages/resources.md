@@ -2,7 +2,10 @@
 layout: page
 title: Resources
 permalink: /resources/
-description: 
+description: |
+  In my many days of surfing the web, I’ve always appreciated it when other people shared the resources they personally found noteworthy or useful. With this page, I want to help keep this trend alive!
+  
+  The content I included below ranges from fun educational websites to useful productivity apps and resources on career choices. Enjoy!
 nav: true
 order: 6
 display_categories: []
@@ -181,8 +184,4 @@ accordion:
       + *Range* by David Epstein: Range is a [book](https://davidepstein.com/the-range/) about what constitutes generalists and specialists in this day and age, picking up on what the two "types" bring to the table in the career marketplace. It includes lots of interesting stories and anecdotes and is generally a pleasant as well as insightful read.
       + *You Majored In What?* by Katherine Brooks: You Majored in What? is a career-guide-type [book](https://www.penguinrandomhouse.com/books/304343/you-majored-in-what-by-katharine-brooks/) including insights, advice, and career-related questions as food for thought. It also brilliantly discusses how your college major does not define your career trajectory, which may be of use to any of you with broader, multi-disciplinary career (and free-time) interests.
 ---
-In my many days of surfing the web, I’ve always appreciated it when other people shared the resources they personally found noteworthy or useful. With this page, I want to help keep this trend alive!
-
-The content I included below ranges from fun educational websites to useful productivity apps and resources on career choices. Enjoy!
-
 {% include accordion.html %}
