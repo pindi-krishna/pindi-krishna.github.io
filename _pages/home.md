@@ -20,4 +20,4 @@ I also <b>assist with various research</b> around <a href="http://zib.education/
 
 I'm <b>interested in how children learn and reason about the world</b>. Relatedly, I'm curious about how emerging technologies may be helpful in enhancing early science education, and how technology use may impact children's cognitive development. I also think that Statistics are fun, which I've been told is odd.
 
-From time to time, I write <a href="/writings/">short texts</a> and dabble in small <a href="https://github.com/ottuba">webdesign / data viz / misc coding projects</a>. I also love exchanging ideas with other people, so if you would like to talk about any given topic, please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
+From time to time, I write <a href="/writings/">short texts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc coding projects</a>. I also love exchanging ideas with other people, so if you would like to talk about any given topic, please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
