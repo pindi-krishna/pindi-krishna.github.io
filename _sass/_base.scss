@@ -197,27 +197,16 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile.float-right {
-    justify-content: center;
-    margin: 0 auto;
+    margin: auto;
   }
   .profile {
     width: 30%;
-    margin: 0 auto;
+    margin: auto;
     .address {
       display: inline-block;
-      justify-content: center !important;
-      align-items: center !important;
-      text-align: center !important;
-      margin-right: auto !important;
       p, .fa, .fas, .ai, .btn {
         width: 20%;
       }
-    img {
-      align-items: center !important;
-      display: block !important;
-      margin-left: auto !important;
-      margin-right: auto !important;
-    }
     }
   }
 }
