@@ -200,7 +200,7 @@ blockquote {
     margin: auto auto auto 25px;
     .address {
       margin: auto auto 20px auto;
-      p, .fa, .fas, .ai, .btn {
+      p, .fa, .fas, .fab, .ai, .btn {
         width: 20%;
       }
     }
@@ -854,7 +854,7 @@ code {
 
 // Button customization
 
-.fa, .fas, .ai, .btn, .fab {
+.fa, .fas, .fab, .ai, .btn, .fab {
   color: var(--global-text-color);
   background: none;
   text-shadow: none;
