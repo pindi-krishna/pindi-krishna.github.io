@@ -199,17 +199,26 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
-    margin: 0 auto;
+    width: 100%;
+    /* Firefox */
+    display: -moz-box;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    /* Safari and Chrome */
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    /* W3C */
+    display: box;
+    box-pack: center;
+    box-align: center;
     .address {
-      display: table !important;
-      margin: 0 auto !important;
+        width: 50%;
       p, .fa, .fas, .ai, .btn {
         width: 20%;
       }
     img {
-      display: table !important;
-      margin: 0 auto !important;
+        width: 50%;
     }
     }
   }
