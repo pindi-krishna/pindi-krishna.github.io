@@ -175,15 +175,15 @@ blockquote {
 }
 
 // Profile
+.container.mt-5 div.post article div.profile.float-right figure picture img.img-fluid.z-dept-1.rounded {
+  float: none;
+}
 
 .profile {
   width: 100%;
-  .img {
-    float: none;
   }
   .address {
     margin-bottom: 20px;
-    margin-left: 20px;
     margin-top: 5px;
     font-family: monospace;
     font-size: 0.75rem !important;
@@ -200,7 +200,7 @@ blockquote {
     width: 30%;
     margin: auto;
     .address {
-      display: inline-block;
+      margin: auto auto 20px auto;
       p, .fa, .fas, .ai, .btn {
         width: 20%;
       }
