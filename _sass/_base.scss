@@ -202,19 +202,14 @@ blockquote {
     width: 30%;
     margin: 0 auto;
     .address {
-      display: inline-block;
-      justify-content: center !important;
-      align-items: center !important;
-      text-align: center !important;
-      margin-right: auto !important;
+      display: table !important;
+      margin: 0 auto !important;
       p, .fa, .fas, .ai, .btn {
         width: 20%;
       }
     img {
-      width: 50%;
-      display: block !important;
-      margin-left: auto !important;
-      margin-right: auto !important;
+      display: table !important;
+      margin: 0 auto !important;
     }
     }
   }
@@ -423,7 +418,7 @@ footer.fixed-bottom {
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color) !important;
   padding-top: 40px;
-  padding-bottom: 0px; 
+  padding-bottom: 0px;
   font-size: .75rem !important;
   text-align: center !important;
 }
