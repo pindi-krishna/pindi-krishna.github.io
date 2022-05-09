@@ -156,7 +156,7 @@ accordion:
       80000 hours is a really interesting non-profit project affiliated with University of Oxford's Future of Humanity Institute and the Oxford Uehiro Centre for Practical Ethics. The name stems from a simple calculation: 40 years times 50 weeks times 40 hours equals 80000 hours of work within a “standard” lifespan. The project publishes a lot of articles revolving around which pressing problems around the world may make the most sense to tackle right now, and how so. If you don’t shy away from reading long texts, this is a great webpage to have a look at. However, I want to emphasize that "career planning" (if there even is such a thing) goes beyond just pure self-reflection and thinking; in my experience, gathering experiences and impressions in various places and ways is crucial, which is what the people behind 80000 hours also highlight.
 
       **Graduate School Applications (Various Resources)**
-      See also my [personal resource collection on pursuing a PhD](/projects.md)!
+      See also my [personal resource collection on pursuing a PhD](/projects/phd-resources/)!
       
       The process of applying to grad school (both for master’s and PhD programs) can be a confusing one, especially if you’re an international student. As I myself am still in the process of figuring it all out, I can’t give much personal advice, so instead, I’ll link other people's resources/”tricks” I have made use of:
 
