@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/en/about-lmu/index.html">University of Munich</a> (LMU München).
 
-I also <b>assist with various research</b> around <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html">the development of scientific reasoning in young children</a>, <a href="https://www.edu.sot.tum.de/en/fil/research/laufende-projekte/instructional-prompts-in-the-museum/">informal learning in science museums</a>, and <a href="http://zib.education/en/home.html">international student assessment</a>,.
+I also <b>assist with various research</b> around <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html">the development of scientific reasoning in young children</a>, <a href="https://www.edu.sot.tum.de/en/fil/research/laufende-projekte/instructional-prompts-in-the-museum/">informal learning in science museums</a>, and <a href="http://zib.education/en/home.html">international student assessment</a>.
 
 I'm <b>interested in how children learn and reason about the world</b>. Relatedly, I'm curious about emerging technologies' affordances for early science education, and how technology use impacts children's overall cognitive development. I also think that Statistics are fun, which I've been told is odd.
 

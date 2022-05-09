@@ -194,7 +194,6 @@ blockquote {
   }
 }
 
-// PHONE VIEW SETTINGS
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -203,57 +202,6 @@ blockquote {
       margin: auto auto 20px auto;
       p, .fa, .fas, .fab, .ai, .btn {
         width: 20%;
-      }
-    }
-  }
-
-  .navbar .dropdown-menu {
-    a:hover {
-      background: linear-gradient(104deg, rgba(142,233,255,0) 0.9%, #8ee9ff 2.4%, rgba(142,233,255,0.5) 5.8%, rgba(142,233,255,0.1) 93%, rgba(142,233,255,0.7) 96%, rgba(142,233,255,0) 98%),linear-gradient(183deg, rgba(142,233,255,0) 0%, rgba(142,233,255,0.3) 7.9%, rgba(142,233,255,0) 15%);
-      text-shadow: -0.15em 0.15em 0.42em rgba(142,233,255,0.7),0.15em -0.15em 0.31em #fff,-0.15em -0.15em 1.3em #fff;
-      color: var(--global-hover-color);
-    }
-  }
-
-  a, table.table a {
-    color: var(--global-theme-color);
-    &:hover {
-      background: linear-gradient(104deg, rgba(142,233,255,0) 0.9%, #8ee9ff 2.4%, rgba(142,233,255,0.5) 5.8%, rgba(142,233,255,0.1) 93%, rgba(142,233,255,0.7) 96%, rgba(142,233,255,0) 98%),linear-gradient(183deg, rgba(142,233,255,0) 0%, rgba(142,233,255,0.3) 7.9%, rgba(142,233,255,0) 15%);
-      text-shadow: -0.15em 0.15em 0.42em rgba(142,233,255,0.7),0.15em -0.15em 0.31em #fff,-0.15em -0.15em 1.3em #fff;
-      color: var(--global-hover-color);
-    }
-  }
-
-  .pagination {
-    .page-item {
-      .page-link {
-        color: var(--global-text-color);
-        &:hover {
-          background: linear-gradient(104deg, rgba(142,233,255,0) 0.9%, #8ee9ff 2.4%, rgba(142,233,255,0.5) 5.8%, rgba(142,233,255,0.1) 93%, rgba(142,233,255,0.7) 96%, rgba(142,233,255,0) 98%),linear-gradient(183deg, rgba(142,233,255,0) 0%, rgba(142,233,255,0.3) 7.9%, rgba(142,233,255,0) 15%);
-          text-shadow: -0.15em 0.15em 0.42em rgba(142,233,255,0.7),0.15em -0.15em 0.31em #fff,-0.15em -0.15em 1.3em #fff;
-          color: var(--global-hover-color);
-        }
-      }
-      &.active .page-link {
-        &:hover {
-          background: linear-gradient(104deg, rgba(142,233,255,0) 0.9%, #8ee9ff 2.4%, rgba(142,233,255,0.5) 5.8%, rgba(142,233,255,0.1) 93%, rgba(142,233,255,0.7) 96%, rgba(142,233,255,0) 98%),linear-gradient(183deg, rgba(142,233,255,0) 0%, rgba(142,233,255,0.3) 7.9%, rgba(142,233,255,0) 15%);
-          text-shadow: -0.15em 0.15em 0.42em rgba(142,233,255,0.7),0.15em -0.15em 0.31em #fff,-0.15em -0.15em 1.3em #fff;
-          color: var(--global-hover-color);
-        }
-      }
-    }
-  }
-
-.post{
-    align-items: center;
-    .post-tags{
-      a {
-        &:hover {
-          color: var(--global-theme-color);
-          background: linear-gradient(104deg, rgba(142,233,255,0) 0.9%, #8ee9ff 2.4%, rgba(142,233,255,0.5) 5.8%, rgba(142,233,255,0.1) 93%, rgba(142,233,255,0.7) 96%, rgba(142,233,255,0) 98%),linear-gradient(183deg, rgba(142,233,255,0) 0%, rgba(142,233,255,0.3) 7.9%, rgba(142,233,255,0) 15%);
-          text-shadow: -0.15em 0.15em 0.42em rgba(142,233,255,0.7),0.15em -0.15em 0.31em #fff,-0.15em -0.15em 1.3em #fff;
-          color: var(--global-hover-color);
-        }
       }
     }
   }
