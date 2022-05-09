@@ -179,7 +179,9 @@ blockquote {
 .profile {
   margin-left: 25px;
   width: 100%;
-
+  .img {
+    float: none;
+  }
   .address {
     margin-bottom: 20px;
     margin-left: 20px;
@@ -197,8 +199,10 @@ blockquote {
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+    margin: auto;
     .address {
       display: inline-block;
+      margin: auto;
       p, .fa, .fas, .ai, .btn {
         width: 20%;
       }
