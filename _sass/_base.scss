@@ -195,6 +195,8 @@ blockquote {
   }
 }
 
+// Make image display in the middle for phone screens
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -209,7 +211,7 @@ blockquote {
         width: 20%;
       }
     img {
-      align-items: center !important;
+      width: 50%;
       display: block !important;
       margin-left: auto !important;
       margin-right: auto !important;
