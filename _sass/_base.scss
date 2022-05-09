@@ -195,62 +195,24 @@ blockquote {
   }
 }
 
-// Phone screens
-
-@media only screen and (min-width : 320px) {
-  .profile {
-    width: auto !important;
-    margin: 0 auto !important;
-    .address {
-      width: auto;
-      margin: 0 auto;
-      text-align: center;
-      p, .fa, .fas, .ai, .btn {
-        width: auto;
-        margin: 0 auto;
-      }
-    img {
-      width: auto;
-      margin: 0 auto;
-    }
-    }
-  }
-}
-
-/* Extra Small Devices, Phones */
-@media only screen and (min-width : 480px) {
-  .profile {
-    width: 100% !important;
-    text-align: center !important;
-    .address {
-      display: inline-block;
-      p, .fa, .fas, .ai, .btn {
-        display: inline-block;
-      }
-    img {
-      display: inline-block;
-    }
-    }
-  }
-}
-
-// Bigger screens
-
 @media (min-width: 576px) {
   .profile {
-    width: auto !important;
-    margin: 0 auto !important;
+    width: 30%;
+    margin: 0 auto;
     .address {
-      width: auto;
-      margin: 0 auto;
-      text-align: center;
+      display: inline-block;
+      justify-content: center !important;
+      align-items: center !important;
+      text-align: center !important;
+      margin-right: auto !important;
       p, .fa, .fas, .ai, .btn {
-        width: auto;
-        margin: 0 auto;
+        width: 20%;
       }
     img {
-      width: auto;
-      margin: 0 auto;
+      align-items: center !important;
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
     }
     }
   }
