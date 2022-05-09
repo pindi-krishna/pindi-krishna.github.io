@@ -195,6 +195,28 @@ blockquote {
   }
 }
 
+// Make image display in the middle for phone screens
+
+@media (min-width: 576px) {
+  .profile {
+    width: auto !important;
+    margin: 0 auto !important;
+    .address {
+      width: auto !important;
+      margin: 0 auto !important;
+      text-align: center !important;
+      p, .fa, .fas, .ai, .btn {
+        width: auto !important;
+        margin: 0 auto !important;
+      }
+    img {
+      width: auto !important;
+      margin: 0 auto !important;
+    }
+    }
+  }
+}
+
 .post-description {
   text-align: left;
   font-size: 1rem !important;
