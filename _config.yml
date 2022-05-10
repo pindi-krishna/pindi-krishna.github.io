@@ -73,7 +73,7 @@ stackoverflow_id: #your stackoverflow id
 
 contact_note: If you have any questions or remarks, feel free to reach out – I love hearing about other people’s perspectives and ideas!
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: UA-228390407-1 # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
