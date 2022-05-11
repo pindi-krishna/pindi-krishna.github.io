@@ -285,13 +285,13 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
+    width: fit-content;
     padding-top: 0px;
     padding-bottom: 0px;
     margin-top: 8px;
     margin-bottom: 8px;
     color: var(--global-text-color);
     &:hover {
-      width: fit-content;
       color: var(--global-hover-color);
       transition: none;
     }
@@ -301,7 +301,6 @@ blockquote {
       font-weight: bolder;
       color: var(--global-theme-color);
       &:hover {
-        width: fit-content;
         color: var(--global-text-color);
       }
   }
