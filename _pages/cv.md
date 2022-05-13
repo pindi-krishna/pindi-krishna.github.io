@@ -7,5 +7,5 @@ nav: true
 display_categories: [CV, resume]
 horizontal: false
 order: 2
-redirect: /assets/CV.pdf
+redirect: /assets/pdf/CV.pdf
 ---
