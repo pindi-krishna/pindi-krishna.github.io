@@ -18,6 +18,6 @@ I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/e
 
 I also <b>assist with various research</b> around <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html">the development of scientific reasoning in young children</a>, <a href="https://www.edu.sot.tum.de/en/fil/research/laufende-projekte/instructional-prompts-in-the-museum/">informal learning in science museums</a>, and <a href="http://zib.education/en/home.html">international student assessment</a>.
 
-I'm <b>interested in how children learn and reason about the world – both the "real" and virtual one</b>. Relatedly, I'm curious about emerging technologies' affordances for early science education, and how technology use impacts children's overall cognitive development. I also think that Statistics are fun, which I've been told is odd.
+I'm <b>interested in how children learn and reason about the world</b> – both the "real" and virtual one. Relatedly, I'm curious about emerging technologies' affordances for early science education, and how technology use impacts children's overall cognitive development. I also think that Statistics are fun, which I've been told is odd.
 
 From time to time, I write <a href="/writings/">short texts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc coding projects</a>. I also love exchanging ideas with other people, so if you would like to talk about any given topic, please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
