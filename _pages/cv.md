@@ -8,7 +8,7 @@ display_categories: [CV, resume]
 horizontal: false
 order: 2
 ---
-<object data="/assets/pdf/CV.pdf" type="application/pdf">
-    <embed src="/assets/pdf/CV.pdf" width="820px" height="100%" type="application/pdf">
+<object data="/assets/pdf/CV.pdf" type="application/pdf" width="820px" height="100%">
+    <embed src="/assets/pdf/CV.pdf" type="application/pdf">
      <p>In case the inline PDF does not appear, you can download the PDF file <a href="/assets/pdf/CV.pdf" target="_blank">here</a></p>
 </object>
