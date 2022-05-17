@@ -8,4 +8,6 @@ display_categories: [CV, resume]
 horizontal: false
 order: 2
 ---
-<iframe title="cv" src="/assets/pdf/CV.pdf" style="width: 100%; height: 875px; visibility: visible;"></iframe>
+<object data="/assets/pdf/CV.pdf" type="application/pdf">
+    <embed src="/assets/pdf/CV.pdf" width="100%" height="100%" type="application/pdf">
+</object>
