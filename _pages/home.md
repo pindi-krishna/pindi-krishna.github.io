@@ -14,10 +14,10 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/en/about-lmu/index.html">University of Munich</a> (LMU München).
+I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/en/about-lmu/index.html">University of Munich</a>.
 
 I also <b>assist with various research</b> around <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html">the development of scientific reasoning in young children</a>, <a href="https://www.edu.sot.tum.de/en/fil/research/laufende-projekte/instructional-prompts-in-the-museum/">informal learning in science museums</a>, and <a href="http://zib.education/en/home.html">international student assessment</a>.
 
-I'm <b>interested in how children learn and reason about the world</b> – both the "real" and virtual one. Relatedly, I'm curious about <b>immersive technologies</b>' affordances for science education, and how technology use impacts children's overall <b>cognitive development</b>. I also think that Statistics are fun, which I've been told is a bit odd.
+I'm <b>interested in how children develop in their understanding of the world and learn to reason about the events within it.</b>  Relatedly, I'm curious about <b>computational models</b> of these cognitive processes, and how novel technologies (e.g., <b>VR</b>) can be used to enhance young students' understanding of and interest in science. I also think that Statistics are fun, which apparently is a very controversial thing to say (here's a <a href="https://i.stack.imgur.com/6SCx7.png" target="_blank">stats joke</a> as a peace offering).
 
-From time to time, I write <a href="/writings/">short texts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc coding projects</a>. I also love exchanging ideas with other people, so if you would like to talk about any given topic, please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
+From time to time, I write <a href="/writings/">short texts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc. coding projects</a>. I also love exchanging ideas with other people, so if you would like to talk about any given topic, please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
