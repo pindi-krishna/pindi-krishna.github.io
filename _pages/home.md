@@ -14,10 +14,10 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/en/about-lmu/index.html">University of Munich</a>.
+I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/en/about-lmu/index.html">University of Munich</a> (LMU).
 
-I also <b>assist with various research</b> on <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html">the development of scientific reasoning and related abilities in young children</a>, <a href="https://www.edu.sot.tum.de/en/fil/research/laufende-projekte/instructional-prompts-in-the-museum/">informal learning in science museums</a>, and <a href="http://zib.education/en/home.html">international student assessment</a>.
+I’m <b>interested in how children as individuals come to understand and obtain knowledge about the world, and how they produce corresponding explanations</b>. What role do explanation-seeking curiosity and exploration play, and what does that teach us about human intelligence?
 
-I'm primarily <b>interested in how children learn and reason about the world, and how they go on to develop as individuals</b>. Relatedly, I'm curious about computational models of such processes, and how <b>immersive technologies</b> (e.g., VR) can be used to enhance <b>K–12 science education</b>.
+Relatedly, I’m curious about the effectiveness of learning technologies in enhancing early science education. How can such tools be designed and used to better address learners' individual needs and interests, to encourage curiosity and playful exploration?
 
-From time to time, I write <a href="/writings/">short texts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc. coding projects</a>. I also love exchanging ideas with other people, so if you would like to talk about any given topic, please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
+From time to time, I also write <a href="https://www.adaniabutto.com/writings/">blogposts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc. coding projects</a>. I love exchanging ideas with other people, so if you would like to talk about any given topic, please don’t hesitate to <a href="mailto:adaniabutto@gmail.com">reach out</a>!
