@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 I'm a master's student in Psychology at the <a href="https://www.lmu.de/en/about-lmu/index.html">University of Munich</a> (LMU).
 
-I’m <b>interested in how children come to understand and obtain knowledge about the world, and how they produce explanations</b>. What role do explanation-seeking curiosity and exploration play in these processes, and what does that teach us about human intelligence?
+I’m interested in how children come to understand and obtain knowledge about the world, and how they produce corresponding explanations. What role do explanation-seeking curiosity and exploration play in these processes, and what does that teach us about human intelligence?
 
 Relatedly, I’m curious about learning technologies for science education: How can such tools be designed and used to address individual needs and interests of learners, and to encourage curiosity and playful exploration?
 
