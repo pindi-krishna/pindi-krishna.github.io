@@ -20,4 +20,4 @@ I’m <b>interested in how children as individuals come to understand and obtain
 
 Relatedly, I’m curious about the effectiveness of learning technologies in enhancing early science education. How can such tools be designed and used to better address learners' individual needs and interests, to encourage curiosity and playful exploration?
 
-From time to time, I also write <a href="https://www.adaniabutto.com/writings/">blogposts</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc. coding projects</a>. I love exchanging ideas with other people, so if you would like to talk about any given topic, please don’t hesitate to <a href="mailto:adaniabutto@gmail.com">reach out</a>!
+I always enjoy exchanging ideas with other people, so please don’t hesitate to <a href="mailto:adaniabutto@gmail.com">reach out</a>!
