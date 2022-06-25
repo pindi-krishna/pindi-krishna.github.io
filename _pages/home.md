@@ -18,6 +18,6 @@ I'm a <b>master's student in Psychology</b> at the <a href="https://www.lmu.de/e
 
 I’m <b>interested in how children come to understand and obtain knowledge about the world, and how they produce corresponding explanations</b>. What role do <em>explanation-seeking curiosity</em> and <em>exploration</em> play in these processes, and what does that teach us about human intelligence?
 
-Relatedly, I’m also curious about how we can encourage curiosity and playful exploration in formal and informal learning environments, especially <em>K-12 science education</em>. What are ways to design and use <em>learning technologies</em> to provide learners with personalized and engaging experiences?
+Relatedly, I’m also curious about how we can encourage curiosity and playful exploration in formal and informal learning environments, especially in relation to science subjects. What are ways to design and use <em>learning technologies</em> to provide students with personalized and engaging learning experiences?
 
 In my free time, I sometimes <a href="/writings/">blog</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc. coding projects</a>. I also always enjoy exchanging ideas with others, so please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
