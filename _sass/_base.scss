@@ -71,6 +71,14 @@ a, table.table a {
   }
 }
 
+@media screen and (max-width: 500px) {
+  .table {
+    .th {
+      width: auto;
+    }
+  }
+}
+
 // Typewriter effect for home page
 
 // Center text if on small mobile screen
@@ -622,13 +630,22 @@ li h3 {
 
 // Subtitles on Publication page
 
+// Subtitles on Publication page
+
 @media screen and (max-width: 500px) {
   .article {
     h4::before {
+    display: inline-block;
+    content: "";
+    border-top: 0.15rem solid black;
+    transform: translateY(-0.29rem);
+    margin-top: 3rem;
+    margin-left: 0;
+    margin-right: 1rem;
     width: 100px !important;
     margin-bottom: 0px !important;
- }
-}
+    }
+  }
 }
 
 article h4::before {
