@@ -72,6 +72,13 @@ a, table.table a {
 }
 
 // Typewriter effect for home page
+@media screen and (max-width: 500px) {
+  .typewriter {
+    display: flex;
+    margin: auto;
+ }
+}
+
 .typewriter {
   width: fit-content !important;
 }
