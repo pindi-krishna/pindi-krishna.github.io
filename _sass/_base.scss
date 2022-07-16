@@ -37,9 +37,7 @@ hr {
 
 // Distance between table columns
 .table-responsive {
-  display: flex;
-  width: 100%;
-  overflow-x: auto;
+  overflow-wrap: break-word;
 }
 
 .table-sm td, .table-sm th {
@@ -53,7 +51,6 @@ table {
     td {
       vertical-align: middle;
       font-size: 1rem;
-      overflow-wrap: break-word;
     }
     th {
       width: 120px;
