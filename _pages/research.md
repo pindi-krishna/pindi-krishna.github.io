@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: 🔎 Research
+title: Research
 description: A brief overview of research I'm involved in. Please don't hesitate to reach out in case of questions or requests!
 nav: true
 order: 3

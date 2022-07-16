@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🎒 Resources
+title: Resources
 permalink: /resources/
 description: |
   In my many days of surfing the web, I’ve always appreciated it when other people shared the resources they personally found noteworthy or useful. With this page, I want to help keep this trend alive!
