@@ -59,6 +59,24 @@ table {
     }
 }
 
+table {
+  td, th {
+    color: var(--global-text-color);
+  }
+  td {
+    vertical-align: middle;
+    font-size: 1rem;
+  }
+
+@media screen and (max-width: 500px) {
+  .table {
+    .th {
+      width: auto;
+    }
+  }
+}
+
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -963,4 +981,5 @@ code {
   &:hover:after :not(.nav-item.dropdown) {
     color: #1a1f24;
   }
+}
 }
