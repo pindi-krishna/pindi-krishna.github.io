@@ -552,7 +552,7 @@ li h3 {
 
 @media screen and (min-width: 500px) {
   .projectpage {
-    .overallwrapper {
+    .overallcontainer {
    grid-template-columns: 100% !important;
    row-gap: 20px !important;
   }
@@ -605,6 +605,7 @@ li h3 {
 
             .projectlinks {
               margin: 18px auto auto auto;
+              line-height: 150%;
             }
 
         }

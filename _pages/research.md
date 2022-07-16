@@ -126,11 +126,11 @@ order: 3
     
     <div class="projecttext">
       During my research internship at ETH Zurich, I worked on a project investigating the link between math achievement and math-gender stereotypes in Swiss elementary school students.<br><br>
-      The results of the study are not yet published, but you can find more information thorugh the links below.
+      The results of the study are not yet published, but you can find more information through the links below.
     </div>
 
     <div class="projectlinks">
-      <a href="https://lse.ethz.ch/research/implicit-social-cognition.html"> <i class="fas fa-fw fa-link zoom"></i> Project Website</a><br><a href="https://lse.ethz.ch/people/phd-students/alexander-von-bergen--phd-student.html"> <i class="fas fa-fw fa-link zoom"></i> Alex's Website</a>
+      <a href="https://lse.ethz.ch/research/implicit-social-cognition.html"> <i class="fas fa-fw fa-link zoom"></i> Project Abstract</a><br><a href="https://lse.ethz.ch/people/phd-students/alexander-von-bergen--phd-student.html"> <i class="fas fa-fw fa-link zoom"></i> Alex's Website</a>
     </div>
   </div>
 
