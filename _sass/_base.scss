@@ -68,13 +68,13 @@ table {
     font-size: 1rem;
   }
 
-  @media screen and (max-width: 500px) {
-    .table {
-      .th {
-        width: auto;
-      }
-   }
+@media screen and (max-width: 500px) {
+  .table {
+    .th {
+      width: auto;
+    }
   }
+}
 
 
 a, table.table a {
@@ -976,4 +976,5 @@ code {
   &:hover:after :not(.nav-item.dropdown) {
     color: #1a1f24;
   }
+}
 }
