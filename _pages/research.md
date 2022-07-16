@@ -2,8 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: |
-  A brief overview of research I'm involved in. Please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out</a> in case of questions or requests!
+description: A brief overview of research I'm involved in. Please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out</a> in case of questions or requests!
 nav: true
 order: 3
 ---
