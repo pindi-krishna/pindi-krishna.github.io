@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: 🏠 Home
 permalink: /
 nav: true
 order: 1
