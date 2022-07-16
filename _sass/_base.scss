@@ -72,6 +72,8 @@ a, table.table a {
 }
 
 // Typewriter effect for home page
+
+// Center text if on small mobile screen
 @media screen and (max-width: 500px) {
   .typewriter {
     display: flex;
@@ -563,7 +565,7 @@ li h3 {
    grid-template-columns: 100% !important;
    row-gap: 20px !important;
   }
-  .gridelement.logoimage {
+  .logoimage {
     max-width: 75%;
   }
  }
@@ -599,14 +601,6 @@ li h3 {
               object-fit: cover;
               margin-top: 10px;
             }
-  
-            h2::before {
-              border-top: 0.15rem solid black;
-              transform: translateY(-0.29rem);
-              width: 193px;
-              margin-left: 0;
-              margin-right: 1rem;
-              }
 
             .projecttext {
               margin: auto auto 12px auto;
@@ -627,6 +621,13 @@ li h3 {
 // Publications
 
 // Subtitles on Publication page
+@media screen and (max-width: 500px) {
+  article h4::before {
+    width: 100px;
+    margin-bottom: 0px;
+ }
+}
+
 article h4::before {
   display: inline-block;
   content: "";
