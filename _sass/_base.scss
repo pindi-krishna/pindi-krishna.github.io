@@ -562,11 +562,11 @@ li h3 {
 @media screen and (max-width: 500px) {
   .projectpage {
     .overallcontainer {
-   grid-template-columns: 100% !important;
-   row-gap: 20px !important;
+      grid-template-columns: 100% !important;
+      row-gap: 20px !important;
+    .logoimage {
+      max-width: 75%;
   }
-  .logoimage {
-    max-width: 75%;
   }
  }
 }
@@ -622,10 +622,12 @@ li h3 {
 
 // Subtitles on Publication page
 @media screen and (max-width: 500px) {
-  article h4::before {
+  .overallwrapper {
+    .article h4::before {
     width: 100px;
     margin-bottom: 0px;
  }
+}
 }
 
 article h4::before {
