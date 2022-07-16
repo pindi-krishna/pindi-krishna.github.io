@@ -556,6 +556,9 @@ li h3 {
    grid-template-columns: 100% !important;
    row-gap: 20px !important;
   }
+  .gridelement.logoimage {
+    max-width: 75%;
+  }
  }
 }
 
