@@ -46,9 +46,10 @@ table {
     }
     td {
       vertical-align: middle;
-      font-size: 0.875rem;
+      font-size: 1rem;
     }
     th {
+      width: 120px;
       vertical-align: middle !important;
       padding-right: 24px;
       font-weight: 400;
@@ -547,22 +548,96 @@ li h3 {
   }
 }
 
+// Research Projects
+
+@media screen and (min-width: 500px) {
+  .projectpage {
+    .overallwrapper {
+   grid-template-columns: 100% !important;
+   row-gap: 20px !important;
+  }
+ }
+}
+
+.projectpage {
+
+  .overallwrapper {
+
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+
+    .overallcontainer {
+      display: grid;
+      grid-template-columns: 161px calc(100% - 25px - 161px);
+      grid-template-rows: auto;
+      row-gap: 40px;
+      column-gap: 50px;
+      align-items: center;
+      margin-bottom: 30px;
+
+        .gridelement {
+          justify-self: start;
+          align-self: start;
+
+            .logoimage {
+              max-width: 100%;
+              padding: 4px;
+              border: 1px;
+              height: auto;
+              object-fit: cover;
+              margin-top: 10px;
+            }
+  
+            h2::before {
+              border-top: 0.15rem solid black;
+              transform: translateY(-0.29rem);
+              width: 193px;
+              margin-left: 0;
+              margin-right: 1rem;
+              }
+
+            .projecttext {
+              margin: auto auto 12px auto;
+              line-height: 175%;
+            }
+
+            .projectlinks {
+              margin: 18px auto auto auto;
+            }
+
+        }
+        }
+
+    }
+}
 
 // Publications
 
 // Subtitles on Publication page
+article h4::before {
+  display: inline-block;
+  content: "";
+  border-top: 0.15rem solid black;
+  transform: translateY(-0.29rem);
+  width: 194px;
+  margin-top: 3rem;
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
 article h4  {
-  font-size: 20px;
-  width: fit-content;
-  color: #1a1f24;
-  background: linear-gradient(104deg, rgba(254,213,122,0) 0.9%, #fed57a 2.4%, rgba(254,213,122,0.5) 5.8%, rgba(254,213,122,0.1) 93%, rgba(254,213,122,0.7) 96%, rgba(254,213,122,0) 98%),linear-gradient(183deg, rgba(254,213,122,0) 0%, rgba(254,213,122,0.3) 7.9%, rgba(254,213,122,0) 15%);
-  text-shadow: -0.15em 0.15em 0.42em rgba(254,213,122,0.7),0.15em -0.15em 0.31em #fff,-0.15em -0.15em 1.3em #fff;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center !important;
-  margin-top: 4rem;
   margin-bottom: 1rem;
+  font-size: 20px;
+  background: none;
+  text-shadow: none;
+  font-weight: 600;
+  color: black;
+}
+
+article h5  {
+  font-size: 20px;
 }
 
 .publications {

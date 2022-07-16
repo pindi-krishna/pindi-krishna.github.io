@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 description: |
   In my many days of surfing the web, I’ve always appreciated it when other people shared the resources they personally found noteworthy or useful. With this page, I want to help keep this trend alive!
-  <br><br>
-  The content I included below ranges from fun educational websites to useful productivity apps and resources on career choices. Enjoy!
 
 nav: true
 order: 6
