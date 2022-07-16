@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writings
+title: 🖊 Writings
 permalink: /writings/
 nav: true
 order: 5
