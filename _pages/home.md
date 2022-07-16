@@ -16,8 +16,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 I'm currently a <b>master's student in Psychology and Learning Sciences</b> at <a href="https://www.lmu.de/en/about-lmu/index.html">Ludwig-Maximilians-Universität München</a> (LMU Munich).
 
-I’m <b>interested in how children come to understand and obtain knowledge about the world</b>, and what role <em>curiosity</em>, <em>inquiry</em>, and <em>exploration</em> play in these processes.
+I’m <b>interested in how children come to understand and obtain knowledge about the world</b>, and what role <b>curiosity, inquiry, and exploration</b> play in these processes.
 
-Relatedly, I’m also curious about how we can encourage curiosity, inquiry, and exploration in formal and informal learning environments through <em>learning technologies</em>, especially in relation to science subjects. What are ways to design and use virtual spaces to provide children with engaging and personalized learning experiences?
+Relatedly, I’m also passionate about encouraging curiosity, inquiry, and exploration in formal and informal learning environments through <b>learning technologies, especially to foster children's scientific reasoning and literacy</b>. What are ways to design and use virtual spaces to provide young students with effective, engaging, and personalized learning experiences?
 
-In my free time, I sometimes <a href="/writings/">blog</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / misc. coding projects</a>. I also always enjoy exchanging ideas with others, so please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
+In my free time, I sometimes <a href="/writings/">blog</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / miscellaneous coding projects</a>. I always enjoy exchanging ideas with others, so please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
