@@ -29,7 +29,7 @@ order: 3
     </div>
 
     <div class="projectlinks">
-      <a href="https://www.edu.sot.tum.de/en/fil/forschung/laufende-projekte/promus/"> <i class="fa-solid fa-link"></i> Project Website</a>
+      <a href="https://www.edu.sot.tum.de/en/fil/forschung/laufende-projekte/promus/"> <i class="fas fa-fw fa-link zoom"></i> Project Website</a>
     </div>
   </div>
 
@@ -48,7 +48,7 @@ order: 3
     </div>
 
     <div class="projectlinks">
-      <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html"><i class="fa-solid fa-link"></i> Project Website</a>
+      <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html"><i class="fas fa-fw fa-link zoom"></i> Project Website</a>
     </div>
   </div>
 
@@ -112,7 +112,7 @@ order: 3
     </div>
 
     <div class="projectlinks">
-      <a href="https://digitalcollection.zhaw.ch/bitstream/11475/20219/2/2020_Waller_MIKE-Studie_2019_ZHAW.pdf"><i class="fas fa-file"></i> PDF Report (contains English Abstract + Conclusion chapter)</a><br><a href="https://www.zhaw.ch/en/psychology/research/media-psychology/"><i class="fa-solid fa-link"></i> The group's website</a>
+      <a href="https://digitalcollection.zhaw.ch/bitstream/11475/20219/2/2020_Waller_MIKE-Studie_2019_ZHAW.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i> PDF Report (Eng. Abstract & Conclusion)</a><br><a href="https://www.zhaw.ch/en/psychology/research/media-psychology/"><i class="fas fa-fw fa-link zoom"></i> The group's website</a>
     </div>
   </div>
 
@@ -130,7 +130,7 @@ order: 3
     </div>
 
     <div class="projectlinks">
-      <a href="https://lse.ethz.ch/research/implicit-social-cognition.html"> <i class="fa-solid fa-link"></i> Project Website</a> <a href="https://lse.ethz.ch/people/phd-students/alexander-von-bergen--phd-student.html"> <i class="fa-solid fa-link"></i> Alex's Website</a>
+      <a href="https://lse.ethz.ch/research/implicit-social-cognition.html"> <i class="fas fa-fw fa-link zoom"></i> Project Website</a><br><a href="https://lse.ethz.ch/people/phd-students/alexander-von-bergen--phd-student.html"> <i class="fas fa-fw fa-link zoom"></i> Alex's Website</a>
     </div>
   </div>
 
@@ -150,7 +150,7 @@ order: 3
     </div>
 
     <div class="projectlinks">
-      <a href="/assets/pdf/LoL_Thesis_Results.pdf"><i class="fas fa-file"></i> PDF</a>
+      <a href="/assets/ /LoL_Thesis_Results.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i> PDF</a>
     </div>
   </div>
 
