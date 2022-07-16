@@ -565,7 +565,7 @@ li h3 {
       grid-template-columns: 100% !important;
       row-gap: 20px !important;
     .logoimage {
-      max-width: 75%;
+      max-width: 75% !important;
   }
   }
  }
@@ -624,8 +624,8 @@ li h3 {
 @media screen and (max-width: 500px) {
   .overallwrapper {
     .article h4::before {
-    width: 100px;
-    margin-bottom: 0px;
+    width: 100px !important;
+    margin-bottom: 0px !important;
  }
 }
 }
