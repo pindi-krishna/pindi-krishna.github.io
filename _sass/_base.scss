@@ -621,9 +621,10 @@ li h3 {
 // Publications
 
 // Subtitles on Publication page
+
 @media screen and (max-width: 500px) {
-  .overallwrapper {
-    .article h4::before {
+  .article {
+    h4::before {
     width: 100px !important;
     margin-bottom: 0px !important;
  }
