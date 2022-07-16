@@ -149,7 +149,7 @@ order: 3
     </div>
 
     <div class="projectlinks">
-      <a href="/assets/ /LoL_Thesis_Results.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i> PDF</a>
+      <a href="/assets/pdf/LoL_Thesis_Results.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i> PDF</a>
     </div>
   </div>
 
