@@ -36,6 +36,12 @@ hr {
 }
 
 // Distance between table columns
+.table-responsive {
+  display: flex;
+  width: 100%;
+  overflow-x: auto;
+}
+
 .table-sm td, .table-sm th {
   margin-right: 32px;
 }
