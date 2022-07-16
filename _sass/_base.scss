@@ -550,7 +550,7 @@ li h3 {
 
 // Research Projects
 
-@media screen and (min-width: 500px) {
+@media screen and (max-width: 500px) {
   .projectpage {
     .overallcontainer {
    grid-template-columns: 100% !important;
