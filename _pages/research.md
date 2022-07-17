@@ -22,7 +22,7 @@ order: 3
     <h5>Self-Regulated Learning in a Science Museum</h5>
     
     <div class="projecttext">
-      I'm currently part of a <a href="https://www.edu.sot.tum.de/en/fil/forschung/laufende-projekte/promus/" target="_blank">research group at TUM</a> that investigates how German high school students' self-regulated learning in a museum context can be supported with instructional prompts of various kinds.<br>
+      I'm currently part of a <a href="https://www.edu.sot.tum.de/en/fil/team/" target="_blank">research group at TUM</a> that investigates how German high school students' self-regulated learning in a museum context can be supported with instructional prompts of various kinds.<br>
       <br>
       The project is conducted in collaboration with <a href="https://en.wikipedia.org/wiki/Deutsches_Museum" target="_blank">Deutsches Museum</a>, one of the largest museums of science and technology worldwide! You can click the link below to read more.
     </div>
@@ -105,7 +105,7 @@ order: 3
     <h5>(Digital) Media Use of Children in Switzerland</h5>
     
     <div class="projecttext">
-      The Media Psychology section at the Zurich University of Applied Sciences (ZHAW) conducts nationwide research on the (digital) media use of local school children with their biennial <em>MIKE</em>- and <em>JAMES</em>-studies.<br><br>
+      The <a href="https://www.zhaw.ch/en/psychology/research/media-psychology/" target="_blank">Media Psychology Group</a> at the Zurich University of Applied Sciences (<a href="https://www.zhaw.ch/en/university/" target="_blank">ZHAW</a>) conducts nationwide research on the (digital) media use of local school children with their biennial <em><a href="https://www.zhaw.ch/en/psychology/research/media-psychology/media-use/mike/" target="_blank">MIKE</a></em>- and <em><a href="https://www.zhaw.ch/en/psychology/research/media-psychology/media-use/james/" target="_blank">JAMES</a></em>-studies.<br><br>
       During my research internship with the group, I analysed data from one of its most recent studies conducted with elementary school students.<br><br>
       You can read a summary of the findings by following the link(s) below!
     </div>
@@ -124,7 +124,7 @@ order: 3
     <h5>Math Achievement & Math-Gender Stereotypes</h5>
     
     <div class="projecttext">
-      During my research internship at ETH Zurich, I worked on a project investigating the link between math achievement and math-gender stereotypes in Swiss elementary school students.<br><br>
+      During my research internship at <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, I worked on a project investigating the link between math achievement and math-gender stereotypes in Swiss elementary school students.<br><br>
       The results of the study are not yet published, but you can find more information through the links below.
     </div>
 
@@ -142,14 +142,14 @@ order: 3
     <h5>Cognitive, Perceptual, and Attentional Skills of Gamers</h5>
     
     <div class="projecttext">
-      League of Legends (<a href="https://en.wikipedia.org/wiki/League_of_Legends" target="_blank">LoL</a>) counts among the most popular video game titles in the world. Not only does its rapid pace and action-filled content make for fun game play, it also places a high demand on the players’ cognition, perception and attention. For my undergraduate thesis, I investigated in what way playing such a game is associated with improvement of specific cognitive abilities.
+      League of Legends (<a href="https://en.wikipedia.org/wiki/League_of_Legends" target="_blank">LoL</a>) counts among the most popular video game titles in the world. Not only does its rapid pace and action-filled content make for fun game play, it also places a high demand on the players’ cognition, perception and attention. For my undergraduate thesis, I investigated in what way playing such a game is associated with increases in select cognitive, perceptual, and attentional skills.
       Over 300 people ended up participating in my study, and the data did indeed show LoL players outperforming non-gamers in visual search as well as simple and complex reaction time.<br><br>
       However, perhaps the biggest question on the (cognitive) benefits of video game play is to what extent they generalize beyond computerized tasks and tests. If you are curious to read more, Bediou et al. (<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000130" target="_blank">2018</a>) and Sala et al. (<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000139" target="_blank">2018</a>) might be good place to start.<br><br>
       Furthermore, you can find a (quite old) PDF with a summary of my bachelor thesis below.
     </div>
 
     <div class="projectlinks">
-      <a href="/assets/pdf/LoL_Thesis_Results.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i> PDF</a>
+      <a href="/assets/pdf/LoL_Thesis_Results.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf zoom"></i> PDF</a>
     </div>
   </div>
 
