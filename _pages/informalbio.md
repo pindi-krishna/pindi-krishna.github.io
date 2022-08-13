@@ -18,12 +18,12 @@ In my mind, this was clearly a case for Psychology, the study of human thought a
 
 As my studies drew to an end, I realized there was no single best-fitting field for me, but that to study children’s minds, the key lay in synthesizing ideas and methods from cognition, pedagogy, child development, instructional design, and adjacent areas. Then, being a research intern at ETH Zurich in my last semester, I was introduced to the Learning Sciences, a research community leveraging exactly this interdisciplinary approach to investigate and enhance human learning. I was hooked and started searching for Learning Sciences master’s programs at once. LMU Munich with its well-established program and strong research orientation ended up my first choice, and in September 2021, I commenced my studies in Germany.
 
+In my first semester in Munich, I took a course on cognitive development with Prof. Beate Sodian. Here, I encountered the literature characterizing children as “little scientists” for the very first time. I was blown away—there was all this research investigating children’s minds, using creative yet rigorous research methods, and its conclusions seemed to mirror what I had observed in working with kids! I swiftly applied to join Prof. Sodian’s research group as an intern, where I am still working today. My enjoyment working on this project has convinced me that I want to continue doing research with children, focusing on the drivers and mechanisms of their learning, and in what ways these can be enriched.
+
 <div class="informalbioright">
 <img src ="/assets/img/portrait.jpeg">
 </div>
 
-In my first semester in Munich, I took a graduate course on cognitive development with Prof. Beate Sodian. Here, I encountered the literature characterizing children as “little scientists” for the very first time. I was blown away—there was all this research investigating children’s minds, using creative yet rigorous research methods, and its conclusions seemed to mirror what I had observed in working with kids! I swiftly applied to join Prof. Sodian’s research group as an intern, where I am still working today. My enjoyment working on this project has convinced me that I want to continue doing research with children, focusing on the drivers and mechanisms of their learning, and in what ways these can be enriched.
-
 I consider myself very fortunate that observing and thinking about how children's minds work is what I now get to do on a daily basis!
 
-In my free time, I like to wander around cities and go on hikes, take deep dives into whatever topic piques my curiosity and writing up what I learn, play chess (terribly), and play some video games whenever I feel particularly nostalgic!
+In my free time, I like to wander around cities and go on hikes, take deep dives into whatever topic piques my curiosity and writing up what I learn, play chess (terribly), and play some video games whenever I feel nostalgic!
