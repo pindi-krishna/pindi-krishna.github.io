@@ -8,7 +8,7 @@ order: 1
 profile:
   align: right
   image: portrait.jpeg
-  address: <a href="/assets/pdf/CV.pdf"><i class='ai ai-cv-square ai-2x'></i></a> <a href="mailto:adaniabutto@gmail.com"><i class='fas fa-envelope fa-2x'></i></a> <a href="https://github.com/adaniabutto"><i class='fab fa-github fa-2x'></i></a><br><br>adaniabutto[at]gmail[dot]com
+  address: (<a href="/informalbio/"><p style="font-family:'Sacramento'">Informal Bio</p></a>)<br><br><a href="/assets/pdf/CV.pdf"><i class='ai ai-cv-square ai-2x'></i></a> <a href="mailto:adaniabutto@gmail.com"><i class='fas fa-envelope fa-2x'></i></a> <a href="https://github.com/adaniabutto"><i class='fab fa-github fa-2x'></i></a><br><br>adaniabutto[at]gmail[dot]com
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
