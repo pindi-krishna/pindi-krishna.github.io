@@ -6,7 +6,9 @@ description:
 nav: false
 horizontal: false
 ---
+<div class="informalbio">
 <img href ="/assets/img/IMG_0149.jpg">
+</div>
 
 In my own schooling, frustration ensued early: I felt that I had to sit still, keep quiet, listen, and focus on just one subject at a time. However, this conflicted with my desire to ask questions as they came up, and to understand how various topics connected. Fortunately, at home, I soon discovered the internet and the world of computers: My pent-up curiosity could run free on Wikipedia and in niche interest forums, as my questions were always welcome here. Before I knew it, I started skipping homework and studying to instead spend more time online, gradually reducing my academic efforts to a minimum. Although my school eventually noticed my disengagement, allowing me to skip a grade and enter an accelerated program, it was already too late by then; the virtual world had taken over as my preferred place for learning, and henceforth, the classroom content could never again measure up to it. I took a particular liking to computer games due to their captivating storylines, exciting visuals, and seemingly endless supply of levels (I even played <a href="https://en.wikipedia.org/wiki/League_of_Legends" target="_blank">League of Legends</a> competitively for a while!)
 
@@ -22,4 +24,6 @@ I consider myself very fortunate that observing and thinking about how children'
 
 In my free time, I like to wander around cities and go on hikes, take deep dives into whatever topic piques my curiosity and write up what I learned, play chess (terribly), and even play some video games whenever I feel particularly nostalgic!
 
+<div class="informalbio">
 <img href ="/assets/img/portrait.jpeg">
+</div>
