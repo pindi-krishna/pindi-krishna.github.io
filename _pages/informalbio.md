@@ -20,11 +20,11 @@ I went on to use the remainder of my undergraduate years as a broad exploration 
 
 In my first semester in Munich, I took a course on cognitive development with <a href="https://www.mcn.uni-muenchen.de/members/former/sodian/index.html" target="_blank">Prof. Beate Sodian</a>. Here, I encountered the literature characterizing children as “little scientists” for the very first time. I was blown away—there was all this research investigating children’s minds, using creative yet rigorous research methods. I swiftly applied to join Prof. Sodian’s research group as an intern, <a href="https://www.psy.lmu.de/epp/personen/wiss_ma/adani_abutto/index.html" target="_blank">where I am still working today</a>. My enjoyment working on questions around the cognitive development of children has convinced me that I want to continue doing research with kids, focusing on the drivers and mechanisms of their learning, and in what ways these can be enriched.
 
+I consider myself very fortunate that observing and thinking about how children's minds work is what I now get to do on a daily basis!
+
 <div class="informalbioright">
 <img src ="/assets/img/informal.jpg">
 </div>
-
-I consider myself very fortunate that observing and thinking about how children's minds work is what I now get to do on a daily basis!
 
 Ultimately, I seek to use research-based insights to create formal and informal learning experiences that encourage children in their love for learning and foster their basic scientific literacy. Moreover, I aim to engage in science communication directed at educators and parents, sharing our current understanding of children’s minds in an accessible manner.
 
