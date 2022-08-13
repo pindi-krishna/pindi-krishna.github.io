@@ -965,11 +965,12 @@ code {
 
 .informalbio img {
   float: left;
-  margin-right: 17px;
   width: 33%;
   border: #ccc 1px solid;
   margin-right: auto;
   margin-left: auto
+  padding-right: 17px;
+  padding-left: 17px;
 }
 
 .informalbioright img {
@@ -978,5 +979,7 @@ code {
   width: 33%;
   border: #ccc 1px solid;
   margin-right: auto;
-  margin-left: auto
+  margin-left: auto;
+  padding-right: 17px;
+  padding-left: 17px
 }
