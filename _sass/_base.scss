@@ -214,9 +214,6 @@ blockquote {
     margin: auto auto 25px 25px;
     .address {
       margin: auto auto 20px auto;
-      p, .fa, .fas, .fab, .ai, .btn {
-        width: 20%;
-      }
     }
   }
 }
@@ -969,4 +966,17 @@ code {
 .informalbio img {
   float: left;
   margin-right: 17px;
+  width: 33%;
+  border: #ccc 1px solid;
+  margin-right: auto;
+  margin-left: auto
+}
+
+.informalbioright img {
+  float: right;
+  margin-right: 17px;
+  width: 33%;
+  border: #ccc 1px solid;
+  margin-right: auto;
+  margin-left: auto
 }
