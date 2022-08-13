@@ -22,8 +22,8 @@ In my first semester in Munich, I took a graduate course on cognitive developmen
 
 I consider myself very fortunate that observing and thinking about how children's minds work is now my profession!
 
-In my free time, I like to wander around cities and go on hikes, take deep dives into whatever topic piques my curiosity and write up what I learned, play chess (terribly), and even play some video games whenever I feel particularly nostalgic!
-
 <div class="informalbioright">
 <img src ="/assets/img/portrait.jpeg">
 </div>
+
+In my free time, I like to wander around cities and go on hikes, take deep dives into whatever topic piques my curiosity and write up what I learned, play chess (terribly), and even play some video games whenever I feel particularly nostalgic!
