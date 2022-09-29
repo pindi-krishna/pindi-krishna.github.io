@@ -222,10 +222,15 @@ blockquote {
   .profile {
     width: 30%;
     margin: auto auto 25px 25px;
+    background: url("assets/img/IMG_0149.jpg") no-repeat;
     .address {
       margin: auto auto 20px auto;
     }
   }
+}
+
+.profile:hover {
+  background: url("assets/img/IMG_0149.jpg") no-repeat;
 }
 
 .post-description {
