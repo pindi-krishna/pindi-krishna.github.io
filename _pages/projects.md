@@ -6,7 +6,7 @@ description: A collection of projects I work on in my leisure time.
 nav: true
 display_categories: [Coding]
 horizontal: false
-order: 4
+order: 6
 ---
 
 <!-- pages/projects.md -->
