@@ -952,7 +952,14 @@ code {
       margin-right: auto;
       background: url("/assets/img/IMG_0149.jpg") no-repeat;
     }
-    img.img-fluid.rounded.z-depth-1:hover {
+    img.img-fluid.rounded.z-depth-1 .img-top {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 99;
+  }
+    img.img-fluid.rounded.z-depth-1:hover .img-top {
       background: url("/assets/img/IMG_0149.jpg") no-repeat;
     }
   }
