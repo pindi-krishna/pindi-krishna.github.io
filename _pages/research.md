@@ -13,25 +13,6 @@ order: 3
 
 <div class="overallcontainer">
 
-  <!-- TUM ProMus -->
-  <div class="gridelement">
-      <img class="logoimage" src="/assets/img/tum-logo.png">
-  </div>
-
-  <div class="gridelement">
-    <h5>Self-Regulated Learning in a Science Museum</h5>
-    
-    <div class="projecttext">
-      I'm currently part of a <a href="https://www.edu.sot.tum.de/en/fil/team/" target="_blank">research group at TUM</a> that investigates how German high school students' self-regulated learning in a museum context can be supported with instructional prompts of various kinds.<br>
-      <br>
-      The project is conducted in collaboration with <a href="https://en.wikipedia.org/wiki/Deutsches_Museum" target="_blank">Deutsches Museum</a>, one of the largest museums of science and technology worldwide! You can click the link below to read more.
-    </div>
-
-    <div class="projectlinks">
-      <a href="https://www.edu.sot.tum.de/en/fil/forschung/laufende-projekte/promus/"> <i class="fas fa-fw fa-link zoom"></i> Project Website</a>
-    </div>
-  </div>
-
   <!-- LMU EXPLORE -->
   <div class="gridelement">
       <img class="logoimage" src="/assets/img/lmu_brandguide_logo_2_versionen_bildgalerie3_1600x1068_rz_200312_5x_3_2_format_m copy.jpg">
@@ -66,7 +47,40 @@ order: 3
     </div>
   </div>
 
-  <!-- NFC Scale -->
+</div>
+
+</div>
+
+<!-- Past Projects -->
+
+<div class="projectpage">
+
+<div class="overallwrapper">
+
+<h4>Past Projects</h4>
+
+<div class="overallcontainer">
+
+  <!-- TUM ProMus -->
+  <div class="gridelement">
+      <img class="logoimage" src="/assets/img/tum-logo.png">
+  </div>
+
+  <div class="gridelement">
+    <h5>Self-Regulated Learning in a Science Museum</h5>
+    
+    <div class="projecttext">
+      I'm currently part of a <a href="https://www.edu.sot.tum.de/en/fil/team/" target="_blank">research group at TUM</a> that investigates how German high school students' self-regulated learning in a museum context can be supported with instructional prompts of various kinds.<br>
+      <br>
+      The project is conducted in collaboration with <a href="https://en.wikipedia.org/wiki/Deutsches_Museum" target="_blank">Deutsches Museum</a>, one of the largest museums of science and technology worldwide! You can click the link below to read more.
+    </div>
+
+    <div class="projectlinks">
+      <a href="https://www.edu.sot.tum.de/en/fil/forschung/laufende-projekte/promus/"> <i class="fas fa-fw fa-link zoom"></i> Project Website</a>
+    </div>
+  </div>
+
+    <!-- NFC Scale -->
   <div class="gridelement">
       <img class="logoimage" src="/assets/img/lmu_brandguide_logo_2_versionen_bildgalerie3_1600x1068_rz_200312_5x_3_2_format_m copy.jpg">
   </div>
@@ -81,20 +95,6 @@ order: 3
       More information will follow once our analyses have been concluded!
     </div>
   </div>
-
-</div>
-
-</div>
-
-<!-- Past Projects -->
-
-<div class="projectpage">
-
-<div class="overallwrapper">
-
-<h4>Past Projects</h4>
-
-<div class="overallcontainer">
 
   <!-- ZHAW MIKE -->
   <div class="gridelement">
