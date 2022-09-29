@@ -16,13 +16,19 @@ Lots of possibilities here! See the links below for concrete approaches:
         The <a href="http://psychgradsearch.wikidot.com/" target="_blank">Psychology Grad School Wiki</a> for prospective graduate applicants includes lists of open positions
     </li>
     <li>
+        A big-picture summary of <a href="https://docs.google.com/presentation/d/1V8B_r0eQCsdJxtB2j90HSPu6FvRy6UiBPMQh0GXljJ0/present#slide=id.p" target="_blank">what grad school is and how to go about it</a>
+    </li>
+    <li>
         <a href="https://drive.google.com/file/d/1wHd_BRG3SHI-8sFS4E-0ilzp_IaKpQsd/view" target="_blank">A comprehensive A-Z application guide</a> by Jamil Zaki, Stanford
     </li>
     <li>
-        A two-part Ph.D. application bootcamp by Yale students: See <a href="https://drive.google.com/file/d/1zXqU6Q71Xb2Hjq2zbLKprCZOlBX8Avl9/view" target="_blank">here</a> and <a href="https://drive.google.com/file/d/1jCnKr9KH1IeKCLDQO8QZDBNzFm4Gmi--/view" target="_blank">here</a>
+        A two-part Ph.D. application bootcamp by Yale students: See <a href="https://drive.google.com/file/d/1zXqU6Q71Xb2Hjq2zbLKprCZOlBX8Avl9/view" target="_blank">here</a> and <a href="https://drive.google.com/file/d/1jCnKr9KH1IeKCLDQO8QZDBNzFm4Gmi--/view" target="_blank">here</a> (and <a href="https://psychology.yale.edu/graduate/admissions/psychology-graduate-school-bootcamp" target="_blank">here</a> for content from previous years)
     </li>
     <li>
         A comprehensive <a href="https://www.sokolhessnerlab.com/howapplyingworks/#findPIs" target="_blank">search guide</a> by the Sokol-Hessner Lab
+    </li>
+    <li>
+        Another two great application guides to start with by <a href="https://erickenjilee.github.io/ApplyingToGradSchool.html" target="_blank">Eric Lee</a> and <a href="https://www.katenuss.com/advice/applying_to_phd/" target="_blank">Kate Nuss</a>
     </li>
     <li>
         DAAD Database for <a href="https://www2.daad.de/deutschland/promotion/phd/de/13306-phdgermany-datenbank/" target="_blank">German Ph.D. positions</a>
@@ -184,6 +190,15 @@ I've never gone through Ph.D. interviews myself, so I have no tips of my own, bu
 
 <h2>Other (Potentially) Helpful Links / Content</h2>
 <ul>
+    <li>
+        Academic <a href="https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit" target="_blank">secret menu</a>
+    </li>
+    <li>
+        What (some) faculty <a href="https://docs.google.com/document/d/1gQGx1pgKEyifKfrbsH3spIf4ZENy6VBZ1FbIsiYmxi8/edit" target="_blank">say they look for</a> in applicants
+    </li>
+    <li>
+        <a href="https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf" target="_blank">Paper</a> about grad school application "kisses of death" (how fun)
+    </li>
     <li>
         <a href="https://drive.google.com/drive/folders/1FclFPweLMhncElGJ4st7o1kR-TrN9PNW" target="_blank">Google Drive folder</a> by University of Texas students, including templates for application tracking, contacitng potential future advisors, advice on writing your CV, etc.
     </li>
