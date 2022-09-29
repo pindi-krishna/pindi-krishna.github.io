@@ -1,7 +1,7 @@
 ---
 layout: page
-title: (Intellectual) Giftedness
-description: A personal collection of resources around the concept of "(intellectual) giftedness".
+title: Intellectual Giftedness
+description: A collection of resources around the concept and topic of "intellectual giftedness".
 img: assets/img/classroom.jpg
 importance: 1
 category: Miscellaneous

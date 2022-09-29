@@ -7,6 +7,7 @@ importance: 1
 category: Miscellaneous
 ---
 <h2>Books</h2>
+<article class ="post-content">
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://www.amazon.com/Living-Beyond-Normal-Autistic-Autobiography/dp/1950154971">{% include figure.html path="assets/img/beyondnormal.jpg" class="img-fluid rounded z-depth-1" %}</a>
@@ -18,9 +19,11 @@ category: Miscellaneous
         <a href="https://www.amazon.co.uk/Deep-Breath-TWICE-EXCEPTIONAL-JOURNEY/dp/1675320675">{% include figure.html path="assets/img/deepbreath.jpg" class="img-fluid rounded z-depth-1" %}</a>
     </div>
 </div>
+</article>
 <div class="caption">
     Highly insightful stories from autistic people, written from a first-person perspective!
 </div>
+<article class ="post-content">
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://www.amazon.co.uk/Autism-Very-Short-Introduction-Introductions/dp/0199207569/">{% include figure.html path="assets/img/vsiaut.jpg" class="img-fluid rounded z-depth-1" %}</a>
@@ -30,8 +33,9 @@ category: Miscellaneous
     </div>
 </div>
 <div class="caption">
-    Further interesting works from expers and relatives.
+    Further interesting works from experts and relatives.
 </div>
+</article>
 
 <h2>Scientific Papers</h2>
 <ul>

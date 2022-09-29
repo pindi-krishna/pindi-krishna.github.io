@@ -9,10 +9,10 @@ category: Academic
 <h2>Helpful Links</h2>
 <ul>
     <li>
-        <a href="https://gershmanlab.com/index.html" target="_blank">Samuel Gershman</a>'s advice on getting started in CogSci: https://gershmanlab.com/docs/Getting_started_cogsci.pdf 
+        <a href="https://gershmanlab.com/index.html" target="_blank">Samuel Gershman</a>'s advice on getting started in CogSci: <a href="https://gershmanlab.com/docs/Getting_started_cogsci.pdf" target="_blank">https://gershmanlab.com/docs/Getting_started_cogsci.pdf</a>
     </li>
     <li>
-        <a href="https://www.harvardlds.org/our-labs/carey-lab/susan-carey/" target="_blank">Susan Carey</a> on becoming a cognitive scientist: https://www.annualreviews.org/doi/10.1146/annurev-devpsych-040622-091723
+        <a href="https://www.harvardlds.org/our-labs/carey-lab/susan-carey/" target="_blank">Susan Carey</a> on becoming a cognitive scientist: <a href="https://www.annualreviews.org/doi/10.1146/annurev-devpsych-040622-091723" target="_blank">https://www.annualreviews.org/doi/10.1146/annurev-devpsych-040622-091723</a>
     </li>
     <li>
         <a href="https://www.liulaboratory.org/resources" target="_blank">Reading recommendations</a> by <a href="https://www.liulaboratory.org/home" target="_blank">Shari Liu</a> (MIT/JHU)
@@ -20,17 +20,19 @@ category: Academic
 </ul>
 
 <h2>Books</h2>
+<article class="post-content">
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/causallearning.jpg" class="img-fluid rounded z-depth-1" %}
+        <a href="https://blackwells.co.uk/bookshop/product/Causal-Learning-by-Alison-Gopnik-Laura-Elizabeth-Schulz/9780195176803" target="_blank">{% include figure.html path="assets/img/causallearning.jpg" class="img-fluid rounded z-depth-1" %}</a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mindsnewscience.png" class="img-fluid rounded z-depth-1" %}
+        <a href="https://www.amazon.co.uk/Minds-New-Science-Cognitive-Revolution/dp/0465046355" target="_blank">{% include figure.html path="assets/img/mindsnewscience.png" class="img-fluid rounded z-depth-1" %}</a>
     </div>
 </div>
 <div class="caption">
     Two books that (in my opinion) provide a great introduction into Cognitive Science; the first focuses on its approach to investigating human causal learning, and the second on the broader history of the field.
 </div>
+</article>
 
 <h2>Talks</h2>
 <div class="row mt-3">
@@ -52,6 +54,7 @@ category: Academic
 </div>
 <div class="caption">
     Interesting and brilliant talks by Laura Schulz and Josh Tenenbaum!
+</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,6 +64,5 @@ category: Academic
     </div>
 </div>
 <div class="caption">
-    Growing Up in Science series – talk by Nancy Kanwisher
-
+    Growing Up in Science series – fascinating talk by Nancy Kanwisher.
 </div>

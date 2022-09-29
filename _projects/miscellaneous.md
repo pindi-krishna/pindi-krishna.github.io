@@ -150,29 +150,6 @@ accordion:
 
       80000 hours is a really interesting non-profit project affiliated with University of Oxford's Future of Humanity Institute and the Oxford Uehiro Centre for Practical Ethics. The name stems from a simple calculation: 40 years times 50 weeks times 40 hours equals 80000 hours of work within a “standard” lifespan. The project publishes a lot of articles revolving around which pressing problems around the world may make the most sense to tackle right now, and how so. If you don’t shy away from reading long texts, this is a great webpage to have a look at. However, I want to emphasize that "career planning" (if there even is such a thing) goes beyond just pure self-reflection and thinking; in my experience, gathering experiences and impressions in various places and ways is crucial, which is what the people behind 80000 hours also highlight.
 
-      **Graduate School Applications (Various Resources)**
-      See also my [personal resource collection on pursuing a PhD](/projects/phd-resources/)!
-      
-      The process of applying to grad school (both for master’s and PhD programs) can be a confusing one, especially if you’re an international student. As I myself am still in the process of figuring it all out, I can’t give much personal advice, so instead, I’ll link other people's resources/”tricks” I have made use of:
-
-      + [Harvard’s prep resources](https://sites.google.com/g.harvard.edu/p-prep/resources) (e.g., how to write a research statement, application checklist, etc.)
-      + [Google Drive folder](https://drive.google.com/drive/folders/1FclFPweLMhncElGJ4st7o1kR-TrN9PNW) with various guidelines and tips, created by people from the University of Texas:
-        + Excel template for keeping track of your applications
-        + A template for keeping track of your recommendation letters
-        + A template for reaching out to potential future advisors
-        + A document with advice for constructing a CV
-        + A document with advice for comparing graduate program types
-        + A document with a recommended timeline for the application cycle
-        + A document with recommendations for finding relevant research jobs and internship
-      + Guidelines on writing the application essay/SOP:
-        + [CMU](https://www.cmu.edu/student-success/programs/communication-support/index.html)
-        + [Harvard](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf)
-        + [Yale](https://ctl.yale.edu/sites/default/files/basic-page-supplementary-materials-files/writing_personal_statements_for_graduate_school.pdf)
-        + If you google around a bit, you can find examples of essays of people that were admitted to top schools, such as [this one](https://docs.google.com/document/d/1zDZN_yNtrAlMZWDtW2-IC2iZ_jR6kXIEM4zm4Jh8Ft8/edit) by Tiffany Tseng (MIT)
-        + Also, checking lists of alumni on the programme websites and searching those people on LinkedIn/Twitter can give you an idea of what background some of the people that were admitted have. Sometimes messaging them also works, but be mindful of boundaries!
-        + I have also written [a short blogpost on scholarships](/writings/2021/international-scholarships-for-swiss-students/), which is mostly aimed at Swiss students interested in international merit-based scholarships. The general process of applying to scholarships is also covered, though.
-        + If you’re interested in studying in Germany, here’s a really [great overview of all available scholarships](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=&detail=50026200&intention=&origin=&page=1&q=&status=&subjectGrps=).
-
       **Noteworthy Podcasts Offering Career Advice**
       + *[Deep Questions with Cal Newport](https://open.spotify.com/show/0e9lFr3AdJByoBpM6tAbxD?nd=1&si=-wMga1myS0yn8lElGKgTBw)* is a podcast I find brilliant not only for effective time use at work, but also in terms of time use for meaningful spending of your free time. I highly recommend giving it a listen! For starters, some of his shorter "Habit Tune-Up" episodes might be best: There, he directly answers questions from the audience which always come with great concrete examples of time-management or attention issues. His frameworks of "deep work" and "deep life" can add great value if you generally enjoy structuring your days or think you might profit from such an approach.
 
