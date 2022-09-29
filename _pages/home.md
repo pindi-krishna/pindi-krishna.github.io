@@ -20,6 +20,6 @@ I’m <b>interested in how children seek and build knowledge about the world</b>
 
 I currently work on these questions in the <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html" target="_blank">lab of Prof. Beate Sodian</a>, investigating children's development in scientific reasoning and epistemic understanding around preschool and elementary school age.
 
-My goal is to find ways to <b>provide children with positive early learning experiences</b>, especially to foster their <a href="https://mitpress.mit.edu/9780262046497/wonder/" target="_blank">wonder</a> and early scientific literacy.
+My goal is to draw on research to find ways of <b>providing children with positive early learning experiences</b>, especially to foster their <a href="https://mitpress.mit.edu/9780262046497/wonder/" target="_blank">wonder</a> and early scientific literacy.
 
 In my free time, I sometimes <a href="/writings/">blog</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / miscellaneous coding projects</a>. I always enjoy exchanging ideas and thoughts with others, so please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
