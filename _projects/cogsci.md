@@ -2,9 +2,9 @@
 layout: page
 title: Cognitive Science
 description: A collection of resources for people interested in/wanting to learn more about Cognitive Science.
-img: assets/img/phd.jpg
+img: assets/img/cogniscience.jpg
 importance: 1
-category: academic
+category: Academic
 ---
 <h2>Helpful Links</h2>
 <ul>

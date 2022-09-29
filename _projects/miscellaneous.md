@@ -2,9 +2,9 @@
 layout: page
 title: Miscellaneous
 description: Miscellaneous resources on studying/learning, career choice, and fun tools.
-img: assets/img/classroom.jpg
+img: assets/img/misc.jpg
 importance: 1
-category: miscellaneous
+category: Miscellaneous
 horizontal: false
 accordion: 
   - title: Studying / Learning

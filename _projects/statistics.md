@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Statistics
+title: Statistics and Probability
 description: A collection of resources for diving into statistics. These focus mostly on stats for the social sciences, but also include more mathy Bayesian statistics.
-img: assets/img/phd.jpg
+img: assets/img/statsprob.jpg
 importance: 1
-category: academic
+category: Academic
 ---
 <h2>Inferential Statistics</h2>
 <ul>

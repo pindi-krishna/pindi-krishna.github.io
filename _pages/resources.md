@@ -7,7 +7,7 @@ description: |
 
 nav: true
 order: 6
-display_categories: [miscellaneous, academic]
+display_categories: [Miscellaneous, Academic]
 horizontal: false
 ---
 <!-- pages/projects.md -->

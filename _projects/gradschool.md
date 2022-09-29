@@ -4,7 +4,7 @@ title: Grad School
 description: A collection of resources for people interested in pursuing a Ph.D.; while I was successful in being admitted to master's programs, I have yet to go through my first Ph.D. application cycle. Thus, the resources below mostly include links to the advice of other people. I hope they will be as helpful to you as they have been to me!
 img: assets/img/phd.jpg
 importance: 1
-category: academic
+category: Academic
 ---
 <h2>Helpful Links</h2>
 <ul>

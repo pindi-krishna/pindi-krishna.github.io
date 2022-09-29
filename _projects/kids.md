@@ -2,9 +2,9 @@
 layout: page
 title: For Kids & Parents
 description: A collection of resources for kids and parents.
-img: assets/img/phd.jpg
+img: assets/img/kids.jpg
 importance: 1
-category: miscellaneous
+category: Miscellaneous
 ---
 <h2>Children's Books</h2>
 <div class="row mt-3">

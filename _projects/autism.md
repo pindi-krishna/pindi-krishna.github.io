@@ -2,9 +2,9 @@
 layout: page
 title: Autism
 description: A collection of resources for people interested in/wanting to learn more about autism.
-img: assets/img/phd.jpg
+img: assets/img/brainact.jpg
 importance: 1
-category: miscellaneous
+category: Miscellaneous
 ---
 <h2>Books</h2>
 <div class="row mt-3">

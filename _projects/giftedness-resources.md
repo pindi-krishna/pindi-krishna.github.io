@@ -4,7 +4,7 @@ title: (Intellectual) Giftedness
 description: A personal collection of resources around the concept of "(intellectual) giftedness".
 img: assets/img/classroom.jpg
 importance: 1
-category: Resource Collections
+category: Miscellaneous
 ---
 My “database” of information on <em><a href="https://www.nagc.org/resources-publications/resources/what-giftedness" target="_blank">intellectual giftedness</a></em> (termed <em><a href="https://dorsch.hogrefe.com/stichwort/hochbegabung-intellektuelle" target="_blank">Hochbegabung</a></em> in German) – I first started looking into this concept when I wrote a literature review on giftedness and academic achievement in my undergrad. As I noticed that it’s rather hard to make sense of the research literature and the many differing definitions, I thought it would be worthwhile to try and make the information more accessible and comprehensible for others by building a structured resource collection. As I’m from the German-speaking part of Switzerland, the said database also includes relevant information in German.
 
