@@ -16,8 +16,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 I'm currently a <b>master's student in Psychology and Learning Sciences</b> at <a href="https://www.lmu.de/en/about-lmu/index.html">Ludwig-Maximilians-Universität München</a> (LMU Munich).
 
-I’m <b>interested in how children come to understand and obtain knowledge about the world</b>, and what role <b>curiosity, inquiry, and playful exploration</b> play in their knowledge-seeking processes.
+I’m <b>interested in how children seek and build knowledge about the world</b>, and what role <b>curiosity, question-asking, and playful exploration</b> play in these processes.
 
-Relatedly, I’m passionate about finding ways to design and facilitate effective, engaging, and personalized learning experiences for young students, especially to <b>foster their curiosity and early scientific literacy</b>.
+I currently work on these questions in the <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html" target="_blank">lab of Prof. Beate Sodian</a>, investigating children's development in scientific reasoning and epistemic understanding around preschool and elementary school age.
+
+Relatedly, I’m passionate about finding ways to design and facilitate effective, engaging, and personalized learning experiences for young students, especially to <b>foster their <a href="https://mitpress.mit.edu/9780262046497/wonder/" target="_blank">wonder</a> and early scientific literacy</b>.
 
 In my free time, I sometimes <a href="/writings/">blog</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / miscellaneous coding projects</a>. I always enjoy exchanging ideas and thoughts with others, so please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
