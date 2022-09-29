@@ -4,7 +4,7 @@ title: Leisure Projects
 permalink: /projects/
 description: A collection of projects I work on in my leisure time.
 nav: true
-display_categories: [Coding, Data Viz, Resource Collections]
+display_categories: [Coding, Resource Collections]
 horizontal: false
 order: 4
 ---
