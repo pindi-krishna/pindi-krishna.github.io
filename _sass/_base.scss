@@ -950,6 +950,10 @@ code {
       width: 50%;
       margin-left: auto;
       margin-right: auto;
+      background: url("/assets/img/IMG_0149.jpg") no-repeat;
+    }
+    img.img-fluid.rounded.z-depth-1:hover {
+      background: url("/assets/img/IMG_0149.jpg") no-repeat;
     }
   }
 }
