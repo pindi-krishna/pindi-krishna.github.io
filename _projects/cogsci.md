@@ -6,6 +6,11 @@ img: assets/img/cogniscience.jpg
 importance: 1
 category: Academic
 ---
+
+Note that my own primary focus lies on developmental cognitive science, hence some of the content will reflect this preference :-)
+
+---
+
 <h2>Helpful Links</h2>
 <ul>
     <li>
@@ -30,39 +35,30 @@ category: Academic
     </div>
 </div>
 <div class="caption">
-    Two books that (in my opinion) provide a great introduction into Cognitive Science; the first focuses on its approach to investigating human causal learning, and the second on the broader history of the field.
+    Two books that (in my opinion) provide a great introduction to Cognitive Science; the first focuses on the investigation of human causal learning, and the second on the broader history of the discipline(s).
 </div>
 </article>
 
 <h2>Talks</h2>
-<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe
-        src="https://www.youtube.com/watch?v=TFyAEHk5asY">
-        </iframe>
+        <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/embed/TFyAEHk5asY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <iframe
-        src="https://www.youtube.com/watch?v=lD2tkuRm8fc">
-        </iframe>
+        <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/embed/lD2tkuRm8fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <iframe
-        src="https://www.youtube.com/watch?v=VPT73em9Nuc">
-        </iframe>
+        <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/embed/VPT73em9Nuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 </div>
 <div class="caption">
     Interesting and brilliant talks by Laura Schulz and Josh Tenenbaum!
 </div>
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe
-        src="www.youtube.com/watch?v=DQkd7waOdkak&usg=AOvVaw0xRiGbePRHj_ooMkEGC7p_">
-        </iframe>
+        <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/embed/Qkd7waOdkak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <div class="caption">
+        Growing Up in Science series – fascinating talk by Nancy Kanwisher.
     </div>
-</div>
-<div class="caption">
-    Growing Up in Science series – fascinating talk by Nancy Kanwisher.
 </div>
