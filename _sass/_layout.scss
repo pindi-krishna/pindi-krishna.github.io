@@ -54,10 +54,6 @@ body.sticky-bottom-footer {
 }
 
 .profile img:hover {
-  opacity: 0;
-  transition: opacity .55s ease-in-out;
-  -moz-transition: opacity .55s ease-in-out;
-  -webkit-transition: opacity .55s ease-in-out;
   content: url('/assets/img/IMG_0149.jpg');
   width: 70%;
   height: 70%;
