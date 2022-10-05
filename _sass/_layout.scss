@@ -45,12 +45,19 @@ body.sticky-bottom-footer {
     margin-bottom: 20px;
     display: block;
     margin-left: auto;
-    margin-right: auto;   
-    transition: opacity 1s ease-out;
+    margin-right: auto;
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
   }
 }
 
 .profile img:hover {
+  opacity: 0;
+  transition: opacity .55s ease-in-out;
+  -moz-transition: opacity .55s ease-in-out;
+  -webkit-transition: opacity .55s ease-in-out;
   content: url('/assets/img/IMG_0149.jpg');
   width: 70%;
   height: 70%;
