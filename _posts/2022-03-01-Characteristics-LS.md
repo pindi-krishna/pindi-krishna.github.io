@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What are the defining characteristics of the Learning Sciences?"
+title: "What Are The Defining Characteristics of The Learning Sciences?"
 date: 2022-03-01 12:00:00
 description: 
 tags: 
