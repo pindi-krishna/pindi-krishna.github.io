@@ -50,15 +50,18 @@ Note that my own primary focus lies on developmental cognitive science, hence so
     <div class="col-sm mt-3 mt-md-0">
         <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/embed/VPT73em9Nuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/watch?v=ZyYn5QC6t3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
 </div>
 <div class="caption">
-    Interesting and brilliant talks by Laura Schulz and Josh Tenenbaum!
+    A series of brilliant talks by Josh Tenenbaum and Laura Schulz!
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <p align="center"><iframe width="450" height="250" src="https://www.youtube.com/embed/Qkd7waOdkak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <div class="caption">
-        Growing Up in Science series – fascinating talk by Nancy Kanwisher.
+        A fascinating (more informal) talk about science by Nancy Kanwisher, part of the 'Growing Up in Science' series.
     </div>
 </div>

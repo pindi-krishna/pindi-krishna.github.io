@@ -70,7 +70,7 @@ order: 3
     <h5>Self-Regulated Learning in a Science Museum</h5>
     
     <div class="projecttext">
-      I'm currently part of a <a href="https://www.edu.sot.tum.de/en/fil/team/" target="_blank">research group at TUM</a> that investigates how German high school students' self-regulated learning in a museum context can be supported with instructional prompts of various kinds.<br>
+      Between November 2021 and August 2022, I assisted with a <a href="https://www.edu.sot.tum.de/en/fil/team/" target="_blank">research project at TUM</a> that investigates how German high school students' self-regulated learning in a museum context can be supported with instructional prompts of various kinds.<br>
       <br>
       The project is conducted in collaboration with <a href="https://en.wikipedia.org/wiki/Deutsches_Museum" target="_blank">Deutsches Museum</a>, one of the largest museums of science and technology worldwide! You can click the link below to read more.
     </div>

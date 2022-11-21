@@ -21,7 +21,7 @@ category: Miscellaneous
 </div>
 </article>
 <div class="caption">
-    Highly insightful stories from autistic people, written from a first-person perspective!
+    Highly insightful memoirs from autistic people!
 </div>
 <article class ="post-content">
 <div class="row mt-3">
@@ -33,11 +33,11 @@ category: Miscellaneous
     </div>
 </div>
 <div class="caption">
-    Further interesting works from experts and relatives.
+    Further interesting works from experts.
 </div>
 </article>
 
-<h2>Scientific Papers</h2>
+<h2>(A few) Scientific Papers</h2>
 <ul>
     <li>
        The co-occurrence of intellectual giftedness and Autism Spectrum Disorders: <a href="https://doi.org/10.1016/j.edurev.2010.10.001" target="_blank">Link</a>
