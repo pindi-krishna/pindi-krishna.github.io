@@ -2,6 +2,6 @@
 layout: page
 title: Writings
 permalink: /writings/
-nav: true
+nav: false
 order: 4
 ---

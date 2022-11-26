@@ -4,7 +4,7 @@
 
 title: Pindi Krishna Chandra Prasad # the website title (if blank, full name will be used instead)
 first_name: Krishna
-middle_name:
+middle_name: Chandra
 last_name: Pindi
 email: krishna.chandra@research.iiit.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

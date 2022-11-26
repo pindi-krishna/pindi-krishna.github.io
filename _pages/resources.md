@@ -5,7 +5,7 @@ permalink: /resources/
 description: |
   In my many days of surfing the web, I’ve always appreciated it when other people shared the resources they personally found noteworthy or useful. With this page, I want to help keep this trend alive!
 
-nav: true
+nav: false
 order: 5
 display_categories: [Miscellaneous, Academic]
 horizontal: false

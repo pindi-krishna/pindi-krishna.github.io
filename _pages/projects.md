@@ -3,7 +3,7 @@ layout: page
 title: Leisure Projects
 permalink: /projects/
 description: A collection of projects I work on in my leisure time.
-nav: true
+nav: false
 display_categories: [Coding]
 horizontal: false
 order: 6

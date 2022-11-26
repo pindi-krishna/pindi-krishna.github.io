@@ -7,19 +7,17 @@ order: 1
 
 profile:
   align: right
-  image: portrait.jpeg
-  address: <a href="/assets/pdf/CV.pdf"><i class='ai ai-cv-square ai-2x'></i></a> <a href="mailto:adaniabutto@gmail.com"><i class='fas fa-envelope fa-2x'></i></a> <a href="https://github.com/adaniabutto"><i class='fab fa-github fa-2x'></i></a><br><br>adaniabutto[at]gmail[dot]com
+  image: Krishna.jpg
+  address: <a href="/assets/pdf/Krishna_Pindi_Resume.pdf"><i class='ai ai-cv-square ai-2x'></i></a> <a href="mailto:krishna.chandra@research.iiit.ac.in"><i class='fas fa-envelope fa-2x'></i></a> <a href="https://github.com/pindi-krishna"><i class='fab fa-github fa-2x'></i></a><br><br>krishna.chandra[at]research[dot]iiit[dot]ac[dot]com
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I'm currently a <b>master's student in Psychology and Learning Sciences</b> at <a href="https://www.lmu.de/en/about-lmu/index.html">Ludwig-Maximilians-Universität München</a> (LMU Munich).
+I'm currently a <b>master's student in Computer Science and Engineering </b> at <a href="https://www.iiit.ac.in"> Internatioal Institute of Information Technology Hyderabad</a> (IIITH). Here at IIITH, I work under <a href="https://www.iiit.ac.in/people/faculty/Bapiraju/"> Dr. Bapi Raju </a> at Cognitive Science Lab. 
 
-I’m <b>interested in how children seek and build knowledge</b>, particularly how their interactions with the social world inform their reasoning and learning about the physical world.
+I'm a passionate researcher and a problem solver having experience developing Deep Learning models for various applications. I am a Mathematics enthusiast. I am very excited to work on projects which have the potential to contribute to the community significantly. 
 
-I currently work on related questions in the <a href="https://www.psy.lmu.de/epp/forschung/explore/index.html" target="_blank">lab of Prof. Beate Sodian</a>, investigating children's development in scientific reasoning and epistemic understanding around preschool and elementary school age.
+I'm willing to work towards providing machine learning-based solutions for day-to-day activities. I possess a strong foundation in Python, Linear Algebra, Probability Theory, Machine Learning Algorithms, and Computer Vision. My areas of interest : Deep Learning, Computer Vision and Natural Language Processing. I am very much excited to explore new aspects of that.
 
-Ultimately, my goal is to draw on research to find ways of <b>providing children with positive early learning experiences</b>, especially to foster their <a href="https://mitpress.mit.edu/9780262046497/wonder/" target="_blank">wonder and curiosity</a>.
-
-In my free time, I sometimes <a href="/writings/">blog</a> and dabble in small <a href="https://github.com/adaniabutto">webdesign / data viz / miscellaneous coding projects</a>. I always enjoy exchanging ideas and thoughts with others, so please don't hesitate to <a href="mailto:adaniabutto@gmail.com">reach out!</a><br><br>
+I would love to collaborate with researchers interested in Computer Vision and NLP. I'm actively looking for research as well engineer profile jobs in Deep Learning, Computer vision and Natural Language Processing. Please let me know if there is an opportunity and don't hesitate to <a href="mailto:krishna.chandra@research.iiit.ac.in">reach out!</a><br><br> for anything. 
